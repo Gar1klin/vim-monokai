@@ -13,3 +13,10 @@ Put `monokai.vim` file in your `~/.vim/colors/` directory and add the following 
 
     
     colorscheme monokai
+    set number 
+    set foldcolumn=2
+    set mouse=a
+    set mousehide 
+    set novisualbell 
+    set t_Co=256 
+    set showtabline=1
